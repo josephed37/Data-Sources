@@ -13,7 +13,7 @@ This repository was created to serve as a centralized, version-controlled source
 | Dataset Name              | Description                                                                                             | File(s)                     | Potential Use Cases                                    | Tags                                       |
 | ------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------ | ------------------------------------------ |
 | Chicken Fecal Images      | A collection of images of chicken droppings, classified by health status. Contains several categories including Coccidiosis, Healthy, and Salmonella. | `Chicken-fecal-images.zip`  | Image Classification, Disease Detection, Poultry Health Monitoring | `Image Classification`, `Agriculture`, `Poultry`, `Health` |
-| *...add your next dataset here...* | *...describe it...* | *...list file(s)...* | *...list use cases...* | *...add tags...* |
+| *...coming soon...* | *...coming soon..* | *...coming soon..* | *...coming soon..* | *...coming soon..* |
 
 
 ## How to Use
@@ -24,7 +24,7 @@ You can use the datasets in this repository in a few ways:
 
 2.  **Clone the Entire Repository:** To get all datasets, you can clone the repository using Git:
     ```bash
-    git clone [https://github.com/josephed37/Data-Sources.git](https://github.com/josephed37/Data-Sources.git)
+    git clone https://github.com/josephed37/Data-Sources.git
     ```
 
 ## How to Contribute
